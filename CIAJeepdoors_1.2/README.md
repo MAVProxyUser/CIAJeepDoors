@@ -13,6 +13,9 @@ Git clone [dji-firmware-tools](https://github.com/o-gs/dji-firmware-tools.git)
 
 Copy CIAJeepdoors_1.2/CIAJeepDoors.py to dji-firmware-tools folder
 
+You can watch this Video by digdat0 on Youtube:
+[How to disable DroneID on DJI Aircraft](https://www.youtube.com/watch?v=Nmrn6EIOC-Q)
+
 Run it! 
 
 # Verification
