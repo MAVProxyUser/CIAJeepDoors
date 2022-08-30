@@ -52,7 +52,7 @@ People have been privately taking advantage of the DUML commands to [manipulate 
 
 [./comm_serialtalk.py](https://github.com/o-gs/dji-firmware-tools/blob/master/comm_serialtalk.py) ```/dev/ttyACM0 -a 2 -t 1000 -r 0300 -s 3 -i 218 -x 0500000000```
 
-The command above is fairly simple. The most complex part of it is [understanding the privacy flag bits](https://github.com/MAVProxyUser/CIAJeepDoors/blob/main/CIAJeepdoors_1.2/CIAJeepDoors.py#L188). 
+The command above is fairly simple. The most complex part of it is [understanding the privacy flag bits](https://github.com/MAVProxyUser/CIAJeepDoors/blob/main/CIAJeepdoors_1.3/CIAJeepDoors.py#L188). 
 
 ```
 parser.add_argument('-p', '--privacy', type=str, default='',
