@@ -252,7 +252,7 @@ def main():
 
     print('')
     print('++++++++++++++++++++++++++++++++++++++')
-    print('Please only use Android DJI Fly, the iOS version will reset the privacy bits.')
+    print('Please only use Android DJI Fly 1.5.10, the later versions or iOS version will reset the privacy bits.')
     print('++++++++++++++++++++++++++++++++++++++')
     set.close()
 
