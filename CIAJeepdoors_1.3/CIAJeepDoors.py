@@ -254,7 +254,7 @@ def main():
     print('++++++++++++++++++++++++++++++++++++++')
     print('Please only use Android DJI Fly 1.5.10, the later versions or iOS version will reset the privacy bits.')
     print('++++++++++++++++++++++++++++++++++++++')
-    set.close()
+    ser.close()
 
 if __name__ == "__main__":
     main()
