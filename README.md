@@ -1,3 +1,18 @@
+# Warning, because some of you all are stupid, and can't stop bugging OG's for help
+1. Use your head, this was release a year ago... This obviously will not work on all drones/firmware versions
+2. Various DJI Fly updates, patches, and specific versions are *documented* to reset privacy bits. Plan accordingly.
+3. Some drones might *still* send out an valid location packet randomly depending on the firmware version.
+4. This code will NOT stop broadcasts completely, but instead it will only send out broadcasts with NULL data / "fakeSN"
+5. This is not an reliable solution to be used in war, regional skirmishes, or special operations. YOUR life is at risk, this is only proof of concept.
+6. Drones still can be tracked, by ["old crows"](https://www.crows.org) random CUAS platforms or even by EW specialists simply foxhunting via triangulation.
+7. Please please please be aware, this is a bandaid in many cases, this cannot hide you *properly*, but it will give you a fighting chance!
+
+Just as we knew it would, *Everything* changed, as expected as soon as this article came out: 
+DJI insisted drone-tracking AeroScope signals were encrypted — now it admits they aren’t
+https://www.theverge.com/2022/4/28/23046916/dji-aeroscope-signals-not-encrypted-drone-tracking
+
+Godspeed and Good Luck to those of you who's lives depend on this. Please take heed to the words above, your live may depend on it. 
+
 # CIA Jeep Doors [dot] py
 [Riding in a Jeep without doors will make you look at the brand in a whole new way!](https://getjerry.com/insights/riding-jeep-without-doors-will-make-you-look-brand-whole-new-way)<br>
 *Jeeps are quite popular vehicles with a devoted following. One of the reasons for this is that some models of Jeeps allow you to ride with the doors and roof off, which is a rather unique feature among vehicles. However, this may carry some safety risks. 
